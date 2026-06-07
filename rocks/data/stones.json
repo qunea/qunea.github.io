@@ -1,0 +1,200 @@
+[
+  {
+    "id": "001",
+    "images": ["img/001_1.jpg", "img/001_2.jpg", "img/001_3.jpg"],
+    "prefecture": "静岡県",
+    "location": "富士川",
+    "tags": ["頁岩", "黄鉄鉱"],
+    "note": "",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "002",
+    "images": ["img/002_1.jpg", "img/002_2.jpg"],
+    "prefecture": "静岡県",
+    "location": "富士川",
+    "tags": ["変成岩", "緑色片岩"],
+    "note": "一部鏡面加工",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "003",
+    "images": ["img/003_1.jpg", "img/003_2.jpg"],
+    "prefecture": "千葉県",
+    "location": "犬吠埼",
+    "tags": ["玉髄"],
+    "note": "",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "004",
+    "images": ["img/004_1.jpg", "img/004_2.jpg"],
+    "prefecture": "神奈川県",
+    "location": "早戸川",
+    "tags": ["変成岩", "凝灰岩", "セラドン石"],
+    "note": "",
+    "date": "2024-12-30"
+  },
+  {
+    "id": "005",
+    "images": ["img/005_1.jpg", "img/005_2.jpg", "img/005_3.jpg"],
+    "prefecture": "神奈川県",
+    "location": "早川",
+    "tags": ["火成岩", "黒曜石"],
+    "note": "一部鏡面加工",
+    "date": "2024-12-31"
+  },
+  {
+    "id": "006",
+    "images": ["img/006_1.jpg"],
+    "prefecture": "神奈川県",
+    "location": "猿島",
+    "tags": ["石英"],
+    "note": "白雲母っぽい",
+    "date": "2024-10-28"
+  },
+  {
+    "id": "007",
+    "images": ["img/007_1.jpg", "img/007_2.jpg"],
+    "prefecture": "神奈川県",
+    "location": "二子玉川",
+    "tags": ["珪岩", "石英"],
+    "note": "結晶質石灰岩？",
+    "date": "2024-10-12"
+  },
+  {
+    "id": "008",
+    "images": ["img/008_1.jpg", "img/008_2.jpg"],
+    "prefecture": "神奈川県",
+    "location": "猿島",
+    "tags": ["堆積岩", "砂岩"],
+    "note": "何の跡か不明…",
+    "date": "2024-10-28"
+  },
+  {
+    "id": "009",
+    "images": ["img/009_1.jpg"],
+    "prefecture": "神奈川県",
+    "location": "秦野戸川公園",
+    "tags": ["石英"],
+    "note": "",
+    "date": "2024-12-30"
+  },
+  {
+    "id": "010",
+    "images": ["img/010_1.jpg", "img/010_2.jpg"],
+    "prefecture": "長野県",
+    "location": "戸隠",
+    "tags": ["チャート"],
+    "note": "",
+    "date": "2024-11-16"
+  },
+  {
+    "id": "011",
+    "images": ["img/011_1.jpg", "img/011_2.jpg"],
+    "prefecture": "静岡県",
+    "location": "富士川",
+    "tags": ["変成岩", "片麻岩"],
+    "note": "一部鏡面加工",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "012",
+    "images": ["img/012_1.jpg", "img/012_2.jpg"],
+    "prefecture": "静岡県",
+    "location": "大瀬崎",
+    "tags": ["火成岩", "玄武岩", "石灰"],
+    "note": "",
+    "date": "2025-08-23"
+  },
+  {
+    "id": "013",
+    "images": ["img/013_1.jpg", "img/013_2.jpg"],
+    "prefecture": "神奈川県",
+    "location": "二子玉川",
+    "tags": ["礫岩"],
+    "note": "",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "014",
+    "images": ["img/014_1.jpg", "img/014_2.jpg"],
+    "prefecture": "神奈川県",
+    "location": "二子玉川",
+    "tags": ["泥岩", "頁岩"],
+    "note": "",
+    "date": "2024-10-12"
+  },
+  {
+    "id": "015",
+    "images": ["img/015_1.jpg", "img/015_2.jpg"],
+    "prefecture": "神奈川県",
+    "location": "城ヶ島",
+    "tags": ["礫岩"],
+    "note": "",
+    "date": "2024-10-27"
+  },
+  {
+    "id": "016",
+    "images": ["img/016_1.jpg", "img/016_2.jpg"],
+    "prefecture": "静岡県",
+    "location": "富士川",
+    "tags": ["チャート", "石英"],
+    "note": "一部鏡面加工",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "017",
+    "images": ["img/017_1.jpg", "img/017_2.jpg"],
+    "prefecture": "長野県",
+    "location": "戸隠",
+    "tags": ["火成岩", "角閃石", "安山岩"],
+    "note": "白は斜長石、黒の細が無いのが角閃石",
+    "date": "2024-11-16"
+  },
+  {
+    "id": "018",
+    "images": ["img/018_1.jpg", "img/018_2.jpg"],
+    "prefecture": "長野県",
+    "location": "戸隠",
+    "tags": ["凝灰岩", "角礫岩"],
+    "note": "真ん中の丸は火山豆石（ラピリ：lapilli）で火山岩の破片がそのまま堆積したものかな？",
+    "date": "2024-11-16"
+  },
+  {
+    "id": "019",
+    "images": ["img/019_1.jpg", "img/019_2.jpg"],
+    "prefecture": "神奈川県",
+    "location": "早川",
+    "tags": ["チャート"],
+    "note": "一部鏡面加工",
+    "date": "2024-12-31"
+  },
+  {
+    "id": "020",
+    "images": ["img/020_1.jpg", "img/020_2.jpg"],
+    "prefecture": "神奈川県",
+    "location": "早戸川",
+    "tags": ["火成岩", "斑状安山岩"],
+    "note": "白の斑晶（はんしょう）は斜長石",
+    "date": "2024-12-30"
+  },
+  {
+    "id": "021",
+    "images": ["img/021_1.jpg", "img/021_2.jpg"],
+    "prefecture": "静岡県",
+    "location": "富士川",
+    "tags": ["火成岩", "深成岩", "斑レイ岩", "斜長石"],
+    "note": "",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "022",
+    "images": ["img/022_1.jpg", "img/022_2.jpg"],
+    "prefecture": "静岡県",
+    "location": "富士川",
+    "tags": ["変成岩", "蛇紋岩"],
+    "note": "白い脈がうねってる",
+    "date": "2026-05-05"
+  }
+]
