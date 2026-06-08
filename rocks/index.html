@@ -47,7 +47,11 @@
 <div class="grid">
   <template x-for="stone in filtered()" :key="stone.id">
     <div class="card" @click="open(stone)">
-      <img :src="stone.images[0]">
+      <img
+      :src="stone.images[0].replace('img/', 'thumb/')"
+      loading="lazy"
+      @error="$el.src = stone.images[0]"
+      >
 
       <div class="date">
         #<span x-text="stone.id"></span><br>
