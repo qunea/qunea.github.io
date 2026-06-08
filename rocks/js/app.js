@@ -75,6 +75,9 @@ function stonesApp() {
     open(stone) {
       this.selected = stone;
       this.currentImage = stone.images[0];
+
+      const preload = new Image();
+      preload.src = stone.images[0];
     },
 
     zoomMove(e) {

@@ -82,9 +82,12 @@
 
     <div class="thumbs">
       <template x-for="img in selected.images">
-        <img :src="img"
-             :class="{active: currentImage === img}"
-             @click="currentImage = img">
+        <img
+        :src="img.replace('img/', 'thumb/')"
+        :class="{active: currentImage === img}"
+        @click="currentImage = img"
+        @error="$el.src = img"
+        >
       </template>
     </div>
 
